@@ -1,0 +1,4 @@
+# Example Voltage Divider
+V1 1 0 10  # 10V source between node 1 and 0 (GND)
+R1 1 2 100 # 100 Ohm resistor
+R2 2 0 100 # 100 Ohm resistor to ground
